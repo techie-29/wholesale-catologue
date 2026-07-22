@@ -1,0 +1,349 @@
+{
+  "brands": [
+    {
+      "name": "Marrow Denim Co.",
+      "tagline": "Heavyweight denim and workwear, raw and washed finishes.",
+      "products": [
+        {
+          "name": "Selvedge Straight Jean",
+          "fabric": "14oz Selvedge Denim, 100% Cotton",
+          "moq": "200 pcs / colorway",
+          "status": "instock",
+          "desc": "Classic straight cut with chainstitch hem, raw indigo.",
+          "images": [
+            "https://picsum.photos/seed/denim1/900/1150",
+            "https://picsum.photos/seed/denim1b/900/1150",
+            "https://picsum.photos/seed/denim1c/900/1150",
+            "https://picsum.photos/seed/denim1d/900/1150",
+            "https://picsum.photos/seed/denim1e/900/1150"
+          ]
+        },
+        {
+          "name": "Utility Chore Jacket",
+          "fabric": "12oz Duck Canvas",
+          "moq": "150 pcs / colorway",
+          "status": "limited",
+          "desc": "Boxy workwear jacket, triple-stitched seams, corozo buttons.",
+          "images": [
+            "https://picsum.photos/seed/denim2/900/1150",
+            "https://picsum.photos/seed/denim2b/900/1150",
+            "https://picsum.photos/seed/denim2c/900/1150",
+            "https://picsum.photos/seed/denim2d/900/1150"
+          ]
+        },
+        {
+          "name": "Washed Denim Overshirt",
+          "fabric": "9oz Stonewashed Denim",
+          "moq": "180 pcs / colorway",
+          "status": "instock",
+          "desc": "Mid-weight overshirt, garment-washed for softness.",
+          "images": [
+            "https://picsum.photos/seed/denim3/900/1150",
+            "https://picsum.photos/seed/denim3b/900/1150",
+            "https://picsum.photos/seed/denim3c/900/1150",
+            "https://picsum.photos/seed/denim3d/900/1150",
+            "https://picsum.photos/seed/denim3e/900/1150"
+          ]
+        },
+        {
+          "name": "Carpenter Cargo Pant",
+          "fabric": "10oz Cotton Twill",
+          "moq": "200 pcs / colorway",
+          "status": "instock",
+          "desc": "Hammer loop, reinforced knees, relaxed leg.",
+          "images": [
+            "https://picsum.photos/seed/denim4/900/1150",
+            "https://picsum.photos/seed/denim4b/900/1150",
+            "https://picsum.photos/seed/denim4c/900/1150",
+            "https://picsum.photos/seed/denim4d/900/1150"
+          ]
+        },
+        {
+          "name": "Denim Trucker Vest",
+          "fabric": "13oz Rigid Denim",
+          "moq": "150 pcs / colorway",
+          "status": "soldout",
+          "desc": "Cropped trucker vest, sherpa collar option available.",
+          "images": [
+            "https://picsum.photos/seed/denim5/900/1150",
+            "https://picsum.photos/seed/denim5b/900/1150",
+            "https://picsum.photos/seed/denim5c/900/1150",
+            "https://picsum.photos/seed/denim5d/900/1150"
+          ]
+        },
+        {
+          "name": "Indigo Field Shirt",
+          "fabric": "6oz Cotton Chambray",
+          "moq": "180 pcs / colorway",
+          "status": "instock",
+          "desc": "Lightweight chambray shirt, two chest pockets.",
+          "images": [
+            "https://picsum.photos/seed/denim6/900/1150",
+            "https://picsum.photos/seed/denim6b/900/1150",
+            "https://picsum.photos/seed/denim6c/900/1150",
+            "https://picsum.photos/seed/denim6d/900/1150",
+            "https://picsum.photos/seed/denim6e/900/1150"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Linden & Wool",
+      "tagline": "Knitwear and outerwear for cold-weather ranges.",
+      "products": [
+        {
+          "name": "Cable Knit Crewneck",
+          "fabric": "80% Wool / 20% Acrylic",
+          "moq": "300 pcs / colorway",
+          "status": "instock",
+          "desc": "Classic cable knit, ribbed cuffs and hem.",
+          "images": [
+            "https://picsum.photos/seed/wool1/900/1150",
+            "https://picsum.photos/seed/wool1b/900/1150",
+            "https://picsum.photos/seed/wool1c/900/1150",
+            "https://picsum.photos/seed/wool1d/900/1150"
+          ]
+        },
+        {
+          "name": "Quilted Puffer Vest",
+          "fabric": "Nylon Shell, Recycled Fill",
+          "moq": "250 pcs / colorway",
+          "status": "instock",
+          "desc": "Lightweight quilted vest, packable hood.",
+          "images": [
+            "https://picsum.photos/seed/wool2/900/1150",
+            "https://picsum.photos/seed/wool2b/900/1150",
+            "https://picsum.photos/seed/wool2c/900/1150",
+            "https://picsum.photos/seed/wool2d/900/1150",
+            "https://picsum.photos/seed/wool2e/900/1150"
+          ]
+        },
+        {
+          "name": "Merino Half-Zip",
+          "fabric": "100% Merino Wool",
+          "moq": "220 pcs / colorway",
+          "status": "limited",
+          "desc": "Fine gauge merino, contrast zip pull.",
+          "images": [
+            "https://picsum.photos/seed/wool3/900/1150",
+            "https://picsum.photos/seed/wool3b/900/1150",
+            "https://picsum.photos/seed/wool3c/900/1150",
+            "https://picsum.photos/seed/wool3d/900/1150"
+          ]
+        },
+        {
+          "name": "Shearling Collar Coat",
+          "fabric": "Melton Wool, Faux Shearling",
+          "moq": "150 pcs / colorway",
+          "status": "instock",
+          "desc": "Mid-length coat, detachable collar.",
+          "images": [
+            "https://picsum.photos/seed/wool4/900/1150",
+            "https://picsum.photos/seed/wool4b/900/1150",
+            "https://picsum.photos/seed/wool4c/900/1150",
+            "https://picsum.photos/seed/wool4d/900/1150"
+          ]
+        },
+        {
+          "name": "Ribbed Turtleneck",
+          "fabric": "70% Wool / 30% Nylon",
+          "moq": "300 pcs / colorway",
+          "status": "instock",
+          "desc": "Fitted turtleneck, extra-long ribbing.",
+          "images": [
+            "https://picsum.photos/seed/wool5/900/1150",
+            "https://picsum.photos/seed/wool5b/900/1150",
+            "https://picsum.photos/seed/wool5c/900/1150",
+            "https://picsum.photos/seed/wool5d/900/1150",
+            "https://picsum.photos/seed/wool5e/900/1150"
+          ]
+        },
+        {
+          "name": "Wool Blend Overcoat",
+          "fabric": "60% Wool / 40% Polyester",
+          "moq": "150 pcs / colorway",
+          "status": "limited",
+          "desc": "Tailored silhouette, welt pockets.",
+          "images": [
+            "https://picsum.photos/seed/wool6/900/1150",
+            "https://picsum.photos/seed/wool6b/900/1150",
+            "https://picsum.photos/seed/wool6c/900/1150",
+            "https://picsum.photos/seed/wool6d/900/1150"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sable Formalwear",
+      "tagline": "Suiting and occasionwear for retail and corporate ranges.",
+      "products": [
+        {
+          "name": "Two-Button Blazer",
+          "fabric": "Wool-Poly Blend Suiting",
+          "moq": "120 pcs / colorway",
+          "status": "instock",
+          "desc": "Half-canvas construction, notch lapel.",
+          "images": [
+            "https://picsum.photos/seed/sable1/900/1150",
+            "https://picsum.photos/seed/sable1b/900/1150",
+            "https://picsum.photos/seed/sable1c/900/1150",
+            "https://picsum.photos/seed/sable1d/900/1150"
+          ]
+        },
+        {
+          "name": "Slim Fit Trouser",
+          "fabric": "Tropical Wool Blend",
+          "moq": "150 pcs / colorway",
+          "status": "instock",
+          "desc": "Flat front, tapered leg, side adjusters.",
+          "images": [
+            "https://picsum.photos/seed/sable2/900/1150",
+            "https://picsum.photos/seed/sable2b/900/1150",
+            "https://picsum.photos/seed/sable2c/900/1150",
+            "https://picsum.photos/seed/sable2d/900/1150",
+            "https://picsum.photos/seed/sable2e/900/1150"
+          ]
+        },
+        {
+          "name": "Satin Evening Gown",
+          "fabric": "100% Polyester Satin",
+          "moq": "100 pcs / colorway",
+          "status": "limited",
+          "desc": "Bias-cut gown, cowl back detail.",
+          "images": [
+            "https://picsum.photos/seed/sable3/900/1150",
+            "https://picsum.photos/seed/sable3b/900/1150",
+            "https://picsum.photos/seed/sable3c/900/1150",
+            "https://picsum.photos/seed/sable3d/900/1150"
+          ]
+        },
+        {
+          "name": "Dress Shirt, Slim",
+          "fabric": "Cotton Poplin",
+          "moq": "200 pcs / colorway",
+          "status": "instock",
+          "desc": "Spread collar, mother-of-pearl buttons.",
+          "images": [
+            "https://picsum.photos/seed/sable4/900/1150",
+            "https://picsum.photos/seed/sable4b/900/1150",
+            "https://picsum.photos/seed/sable4c/900/1150",
+            "https://picsum.photos/seed/sable4d/900/1150"
+          ]
+        },
+        {
+          "name": "Pleated Formal Skirt",
+          "fabric": "Wool Crepe",
+          "moq": "150 pcs / colorway",
+          "status": "soldout",
+          "desc": "Knife pleats, concealed side zip.",
+          "images": [
+            "https://picsum.photos/seed/sable5/900/1150",
+            "https://picsum.photos/seed/sable5b/900/1150",
+            "https://picsum.photos/seed/sable5c/900/1150",
+            "https://picsum.photos/seed/sable5d/900/1150"
+          ]
+        },
+        {
+          "name": "Waistcoat, Tailored",
+          "fabric": "Wool-Poly Suiting",
+          "moq": "150 pcs / colorway",
+          "status": "instock",
+          "desc": "Five-button, adjustable back strap.",
+          "images": [
+            "https://picsum.photos/seed/sable6/900/1150",
+            "https://picsum.photos/seed/sable6b/900/1150",
+            "https://picsum.photos/seed/sable6c/900/1150",
+            "https://picsum.photos/seed/sable6d/900/1150",
+            "https://picsum.photos/seed/sable6e/900/1150"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Palma Active",
+      "tagline": "Performance and athleisure basics.",
+      "products": [
+        {
+          "name": "Tech Fleece Hoodie",
+          "fabric": "Polyester-Cotton Tech Fleece",
+          "moq": "300 pcs / colorway",
+          "status": "instock",
+          "desc": "Bonded seams, kangaroo pocket.",
+          "images": [
+            "https://picsum.photos/seed/palma1/900/1150",
+            "https://picsum.photos/seed/palma1b/900/1150",
+            "https://picsum.photos/seed/palma1c/900/1150",
+            "https://picsum.photos/seed/palma1d/900/1150"
+          ]
+        },
+        {
+          "name": "Compression Legging",
+          "fabric": "Nylon-Spandex 4-Way Stretch",
+          "moq": "350 pcs / colorway",
+          "status": "instock",
+          "desc": "High-rise waistband, flatlock seams.",
+          "images": [
+            "https://picsum.photos/seed/palma2/900/1150",
+            "https://picsum.photos/seed/palma2b/900/1150",
+            "https://picsum.photos/seed/palma2c/900/1150",
+            "https://picsum.photos/seed/palma2d/900/1150",
+            "https://picsum.photos/seed/palma2e/900/1150"
+          ]
+        },
+        {
+          "name": "Performance Polo",
+          "fabric": "Polyester Pique Mesh",
+          "moq": "300 pcs / colorway",
+          "status": "limited",
+          "desc": "Moisture-wicking, UV-resistant finish.",
+          "images": [
+            "https://picsum.photos/seed/palma3/900/1150",
+            "https://picsum.photos/seed/palma3b/900/1150",
+            "https://picsum.photos/seed/palma3c/900/1150",
+            "https://picsum.photos/seed/palma3d/900/1150"
+          ]
+        },
+        {
+          "name": "Windbreaker Shell",
+          "fabric": "Ripstop Nylon",
+          "moq": "250 pcs / colorway",
+          "status": "instock",
+          "desc": "Packable, taped seams, elastic hem.",
+          "images": [
+            "https://picsum.photos/seed/palma4/900/1150",
+            "https://picsum.photos/seed/palma4b/900/1150",
+            "https://picsum.photos/seed/palma4c/900/1150",
+            "https://picsum.photos/seed/palma4d/900/1150"
+          ]
+        },
+        {
+          "name": "Training Shorts",
+          "fabric": "Polyester Interlock",
+          "moq": "300 pcs / colorway",
+          "status": "instock",
+          "desc": "7-inch inseam, inner brief lining.",
+          "images": [
+            "https://picsum.photos/seed/palma5/900/1150",
+            "https://picsum.photos/seed/palma5b/900/1150",
+            "https://picsum.photos/seed/palma5c/900/1150",
+            "https://picsum.photos/seed/palma5d/900/1150",
+            "https://picsum.photos/seed/palma5e/900/1150"
+          ]
+        },
+        {
+          "name": "Seamless Sports Bra",
+          "fabric": "Nylon-Spandex Seamless Knit",
+          "moq": "350 pcs / colorway",
+          "status": "limited",
+          "desc": "Medium support, removable pads.",
+          "images": [
+            "https://picsum.photos/seed/palma6/900/1150",
+            "https://picsum.photos/seed/palma6b/900/1150",
+            "https://picsum.photos/seed/palma6c/900/1150",
+            "https://picsum.photos/seed/palma6d/900/1150"
+          ]
+        }
+      ]
+    }
+  ]
+}
